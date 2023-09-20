@@ -16,6 +16,4 @@ Our goal is to create a seamless and visually appealing online shopping experien
 
 Feel free to join us in shaping the future of e-commerce with this exciting project!
 
-## Contact
 
-If you have any questions or need assistance, don't hesitate to reach out to us at [your-email@example.com](mailto:your-email@example.com).
